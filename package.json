@@ -1,0 +1,9 @@
+{
+  "name": "ifabit-api-types",
+  "version": "1.0.0",
+  "description": "IFABIT API Types",
+  "type": "module",
+  "types": "./index.d.ts",
+  "author": "Aimé SAGBO",
+  "license": "ISC"
+}
