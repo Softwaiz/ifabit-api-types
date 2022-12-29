@@ -1,9 +1,25 @@
 {
-  "name": "ifabit-api-types",
+  "name": "@ifabit/ifabit-api-types",
   "version": "1.0.0",
   "description": "IFABIT API Types",
   "type": "module",
   "types": "./index.d.ts",
   "author": "Aimé SAGBO",
-  "license": "ISC"
+  "private": "false",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Softwaiz/ifabit-api-types"
+  },
+  
+  "bugs": {
+    "url": "https://github.com/Softwaiz/ifabit-api-types/issues"
+  },
+  "homepage": "https://github.com/Softwaiz/ifabit-api-types#readme",
+  "keywords": [
+    "API",
+    "Types",
+    "Typescript",
+    "Module"
+  ]
 }
